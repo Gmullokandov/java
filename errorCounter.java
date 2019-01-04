@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class project0 {
+public class errorCounter {
 	 public static int checkLetters (String wordInput, int correctLetters){
 	      // The loop scans the string for valid Roman Numeral characters
 	      for (int i=0; i < wordInput.length(); i++){ 
