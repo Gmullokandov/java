@@ -3,7 +3,7 @@ package cs212.project.pkg2;
 import java.awt.event.*;
 import javax.swing.*;
 
-public class CS212Project2 {
+public class tic_tac_toe {
     public static void main(String[] args) 
     {
         JFrame menu = new JFrame();
